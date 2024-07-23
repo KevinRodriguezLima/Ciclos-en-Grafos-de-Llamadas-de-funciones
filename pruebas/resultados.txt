@@ -1,0 +1,22 @@
+Archivo,lcCycles (ms),evalJohnson (ms)
+direct1.ll,9.44746,11.156
+direct2fib.ll,7.81684,7.93108
+direct3sum.ll,7.84878,7.33384
+indirect1odd.ll,8.52116,8.96311
+indirect2mut.ll,8.86784,9.11185
+indirect3.ll,93.4733,9.01251
+mut1mut.ll,7.61379,7.90008
+mut2checkodd.ll,8.27871,7.59693
+mut3alter.ll,8.58563,7.63839
+nested1Ackermann.ll,8.16805,8.42793
+nested2fib.ll,8.91176,10.4358
+nested3fact.ll,8.45422,7.89693
+com1.ll,7.87595,8.48092
+com2.ll,8.29919,8.18866
+com3mul.ll,9.17253,8.42787
+ejemploCom.ll,10.065,11.8098
+directo.ll,8.83417,8.62591
+cicloMultiple.ll,8.18981,8.90809
+ejemploCiclos.ll,8.99731,8.87914
+recurIndirecta.ll,9.19759,8.04731
+factorial.ll,7.99247,8.39922

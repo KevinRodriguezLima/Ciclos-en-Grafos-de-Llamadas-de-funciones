@@ -1,0 +1,6 @@
+digraph CallGraph {
+"main";
+"main" -> "factorial";
+"factorial";
+"factorial" -> "factorial";
+}

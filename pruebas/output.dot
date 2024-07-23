@@ -1,0 +1,18 @@
+digraph CallGraph {
+"main";
+"main" -> "complexCalculation";
+"complexCalculation";
+"complexCalculation" -> "printf";
+"complexCalculation" -> "gcd";
+"complexCalculation" -> "multiply";
+"complexCalculation" -> "sum";
+"complexCalculation" -> "factorial";
+"gcd";
+"gcd" -> "gcd";
+"multiply";
+"multiply" -> "multiply";
+"sum";
+"sum" -> "sum";
+"factorial";
+"factorial" -> "factorial";
+}
